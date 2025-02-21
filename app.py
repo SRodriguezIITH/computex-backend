@@ -7,7 +7,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')
 from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
 app = Flask(__name__)
-CORS(app, supports_credentials=True)
+# CORS(app, supports_credentials=True)
+CORS(app, resources={r"/api/*": {"origins": "https://compute-x-tau.vercel.app"}})
+
 
 import torch
 from Preprocessing.Preprocessing import preprocess_image
