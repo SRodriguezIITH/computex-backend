@@ -1,19 +1,10 @@
-anaconda-anon-usage @ file:///croot/anaconda-anon-usage_1732732445543/work
-archspec @ file:///croot/archspec_1709217642129/work
 asgiref==3.8.1
 blinker==1.9.0
-boltons @ file:///work/perseverance-python-buildout/croot/boltons_1698851177130/work
 Brotli @ file:///croot/brotli-split_1714483155106/work
 certifi @ file:///croot/certifi_1734473278428/work/certifi
 cffi @ file:///croot/cffi_1726856441404/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
 click==8.1.8
-conda @ file:///croot/conda_1734648259968/work
-conda-anaconda-telemetry @ file:///croot/conda-anaconda-telemetry_1733258728466/work
-conda-content-trust @ file:///croot/conda-content-trust_1714483159009/work
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1727775630457/work/src
-conda-package-handling @ file:///croot/conda-package-handling_1731369017509/work
-conda_package_streaming @ file:///croot/conda-package-streaming_1731366181659/work
 contourpy==1.3.1
 cryptography @ file:///croot/cryptography_1732129644106/work
 cycler==0.12.1
